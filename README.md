@@ -5,7 +5,7 @@
 <h3 align="center">Bridging the gap between AI and Full-Stack Engineering</h3>
 
 <div align="center">
-  <a href="mailto:dkshbhardwaj@gmail.com">
+  <a href="mailto:nareshsharmacp4@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/daksh-bhardwaj">
@@ -96,7 +96,7 @@
 </table>
 
 ---
-
+<!-- 
 ### 🏅 Certifications & Achievements
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there,%20I'm%20Daksh%20Bhardwaj!%20👋&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=62&animation=twinkling" />
@@ -120,8 +120,8 @@
 
 <table align="center" width="100%">
 <tr>
-<td width="60%" valign="top">
-
+<td width="60%" valign="top"> -->
+<!-- 
 ### 👨‍💻 About Me
 
 - 🎓 Pursuing B.Tech. in **Computer Science and Engineering** at **VIT Bhopal University** (GPA: 8.76)
@@ -200,7 +200,7 @@
       <p>Gained hands-on experience via <strong>Oracle Generative AI</strong> certifications and job simulations in <strong>Cybersecurity</strong> (Tata) & <strong>Audit</strong> (EY).</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
@@ -214,11 +214,11 @@
 ---
 
 ### 📈 My GitHub History!
-
+<!-- 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dakshh-bhardwaj&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshh-bhardwaj&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="49%" />
-</div>
+</div> -->
 
 <br/>
 
