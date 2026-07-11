@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there,%20I'm%20Daksh%20Bhardwaj!%20👋&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=62&animation=twinkling" />
 </div>
 
@@ -223,8 +223,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/dakshh-bhardwaj/dakshh-bhardwaj/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dakshh-bhardwaj/dakshh-bhardwaj/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dakshh-bhardwaj/dakshh-bhardwaj/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dakshh-bhardwaj/dakshh-bhardwaj/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
 
 
